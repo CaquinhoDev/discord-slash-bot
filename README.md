@@ -25,4 +25,4 @@ lembre-se de mudar o token do bot em **config.js**!
     token: "seu token", //COLOQUE O TOKEN DO SEU BOT
     botStatus: "Simsimi", //ESCREVA O STATUS DO BOT (NESSE EXEMPLO FICA "Jogando Simsimi")
     //////////////////////////
-} ```
+} 
